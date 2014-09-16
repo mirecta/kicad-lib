@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0  Date: Tue 16 Sep 2014 11:19:31 PM CEST
+#
+$CMP MB8S
+D Bridge rectifier
+K rectifier, bridge
+F https://www.fairchildsemi.com/datasheets/MB/MB1S.pdf
+$ENDCMP
+#
+#End Doc Library
